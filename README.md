@@ -4,4 +4,4 @@ Don't you hate it when someone unfollows you on Instagram but you don't know who
 
 Open Command Prompt (or Terminal) and run the script via:
 
-<code> python unfollow_checker <code>
+<pre><code> python unfollow_checker.py </code></pre>
