@@ -2,7 +2,7 @@
 
 ** NOT ACTIVELY MAINTAINED. Last time I checked, this doesn't work anymore &#9785;. **
 
-Changes in the Instagram API have rendered third-party Instagram follower/following applications temporarily obsolete. This is a simple, direct method for checking who unfollowed you.
+Changes in the Instagram API have rendered third-party Instagram follower/following applications temporarily obsolete. Before a better fix comes along, this is a simple, direct method for checking who unfollowed you.
 
 Dependencies: Selenium, ChromeDriver
 
